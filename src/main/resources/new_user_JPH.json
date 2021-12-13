@@ -1,0 +1,23 @@
+{
+  "id": 1,
+  "name": "John Nefedoff",
+  "username": "Crazy John",
+  "email": "Nefedoff@april.ua",
+  "address": {
+    "street": "Lenina",
+    "suite": "Apt. 6",
+    "city": "Kyiv",
+    "zipcode": "1111-1111",
+    "geo": {
+      "lat": "-51.1111",
+      "lng": "52.2222"
+    }
+  },
+  "phone": "+38-093-111-22-33",
+  "website": "goit.ua",
+  "company": {
+    "name": "GoIT",
+    "catchPhrase": "Welcome, new Developer!",
+    "bs": "IT-developers fabric"
+  }
+}
